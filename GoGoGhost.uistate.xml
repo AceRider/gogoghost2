@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2uistate>
+    <!--This is a UI state file - its content describes the user interface settings when the project was last open.
+It is entirely optional and the project will load without it.  If you are placing the project under source control,
+you probably do not want to add any .uistate.xml files to the repository.-->
+    <configurations>
+        <active>
+            <configuration name="HTML5" />
+        </active>
+        <display name="HTML5" />
+    </configurations>
+    <open-tabs>
+        <layout order="2">Game</layout>
+        <layout order="0">Start</layout>
+        <event-sheet order="3">EventGame</event-sheet>
+        <event-sheet active="1" order="1">EventStart</event-sheet>
+    </open-tabs>
+    <properties>
+        <property expanded="1" name="About" />
+        <property expanded="1" name="Project settings" />
+        <property expanded="1" name="Window Size" />
+        <property expanded="1" name="Configuration Settings" />
+    </properties>
+    <families-expanded root="1" />
+    <folders-expanded>
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="1" path="layout-folder/" />
+        <folder expanded="1" path="event-folder/" />
+        <folder expanded="1" path="file-folder/" />
+        <folder expanded="0" path="sound-folder/" />
+        <folder expanded="1" path="music-folder/" />
+        <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/Player/" />
+        <folder expanded="1" path="animation-folder/Sprite/" />
+        <folder expanded="1" path="animation-folder/enemy3/" />
+        <folder expanded="1" path="animation-folder/tiro_arvore/" />
+        <folder expanded="1" path="animation-folder/enemy1/" />
+        <folder expanded="1" path="animation-folder/enemy2/" />
+        <folder expanded="1" path="animation-folder/enemy4/" />
+        <folder expanded="1" path="animation-folder/enemy5/" />
+        <folder expanded="1" path="animation-folder/enemy6/" />
+        <folder expanded="1" path="animation-folder/top/" />
+        <folder expanded="1" path="animation-folder/bottom/" />
+        <folder expanded="1" path="animation-folder/SpawnPoint/" />
+        <folder expanded="1" path="animation-folder/background/" />
+        <folder expanded="1" path="animation-folder/jetpack/" />
+        <folder expanded="1" path="animation-folder/pizza/" />
+        <folder expanded="1" path="animation-folder/gameover/" />
+        <folder expanded="1" path="animation-folder/btn_new/" />
+        <folder expanded="1" path="animation-folder/start_background/" />
+        <folder expanded="1" path="animation-folder/btn_start/" />
+        <folder expanded="1" path="animation-folder/Sprite2/" />
+    </folders-expanded>
+</c2uistate>
